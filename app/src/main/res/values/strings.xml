@@ -1,0 +1,129 @@
+<resources>
+
+    <string name="app_name">Guiapp - Guarulhos</string>
+
+    // Nome das abas
+    <string name="category_bares">Bares</string>
+    <string name="category_padarias">Padarias</string>
+    <string name="category_hoteis">Hotéis</string>
+    <string name="category_parques">Parques</string>
+
+    // Nome dos Bares
+    <string name="bar_adega_nome">Adega 33</string>
+    <string name="bar_agua_doce_nome">Água Doce Cachaçaria</string>
+    <string name="bar_brazuca_nome">Brazuca Beer</string>
+    <string name="bar_boa_vista_nome">Boteco Boa Vista</string>
+    <string name="bar_asinha_nome">Boteco Asinha</string>
+    <string name="bar_faria_lima_nome">Boteco Faria Lima</string>
+    <string name="bar_villa_nome">Boteco da Villa</string>
+
+    // Horario dos Bares
+    <string name="bar_adega_horario">Horário de Funcionamento: Terça à Sexta, das 17h até o último cliente | Sábado, das 12h até o último cliente | Domingo, das 15h até o último cliente</string>
+    <string name="bar_agua_doce_horario">Horário de Funcionamento: Terça à Quinta, das 18h à 0h | Sexta, das 17h30 às 0h | Sábado, das 19h às 01h</string>
+    <string name="bar_brazuca_horario">Horário de Funcionamento: Segunda à Quarta, das 16h à 01h | Sexta e Sábado, das 15h às 04h | Domingo, das 15h à 0h</string>
+    <string name="bar_boa_vista_horario">Horário de Funcionamento: Segunda à Sexta, das 12h às 15h | Segunda à Quinta, das 17h às 01h | Sexta, das 16h30 às 03h | Sábado, das 12h às 03h | Domingo, das 15h às 01h</string>
+    <string name="bar_asinha_horario">Horário de Funcionamento: Segunda à Sexta, das 12h à 0h  | Sábado, das 12h à 0h</string>
+    <string name="bar_faria_lima_horario">Horário de Funcionamento: Terça à Quinta, das 17h à 0h | Sexta, das 17h às 02h | Sábado, das 15h às 03h</string>
+    <string name="bar_villa_horario">BHorário de Funcionamento: Terça à Quinta, das 16h à 0h | Sexta e Sábado, das 16h até o último cliente | Domingo, das 17h à 0h</string>
+
+    // Endereço dos Bares
+    <string name="bar_adega_endereco">Endereço: Rua Tapajós, 120 - Jardim Barbosa</string>
+    <string name="bar_agua_doce_endereco">Endereço: Rua Tapajós, 222 - Jardim Barbosa</string>
+    <string name="bar_brazuca_endereco">Endereço: Rua Anice, 254 – Jardim Santa Mena</string>
+    <string name="bar_boa_vista_endereco">Endereço: Rua Tapajós, 200 - Jardim Barbosa</string>
+    <string name="bar_asinha_endereco">Endereço: Rua São Jorge, 156 – Vila Sõa Jorge</string>
+    <string name="bar_faria_lima_endereco">Endereço: Avenida Brigadeiro Faria Lima, 374 – Bom Clima</string>
+    <string name="bar_villa_endereco">Endereço: Avenida Suplicy, 484 – Jardim Santa Mena</string>
+
+
+    // Nome dos Hoteis
+    <string name="hotel_best_nome">BEST WESTERN PANAMBY HOTEL</string>
+    <string name="hotel_bristol_nome">BRISTOL HOTÉIS &amp; RESORTS</string>
+    <string name="hotel_plaza_nome">GUARU PLAZA HOTEL</string>
+    <string name="hotel_monica_nome">HOTEL SANTA MÔNICA</string>
+    <string name="hotel_domani_nome">HOTEL DOMANI</string>
+    <string name="hotel_ibis_nome">HOTEL IBIS GUARULHOS</string>
+    <string name="hotel_matiz_nome">HOTEL MATIZ GUARULHOS</string>
+
+
+    // Endereço dos Hoteis
+    <string name="hotel_best_endereco">Endereço: Rodovia Presidente Dutra Km - 223,8</string>
+    <string name="hotel_bristol_endereco">Endereço: Rua Soldado José de Andrade, 63</string>
+    <string name="hotel_plaza_endereco">Endereço: Avenida Emílio Ribas, 189</string>
+    <string name="hotel_monica_endereco">Endereço: Estrada David Correa, 900 - Cabuçu Recreio São Jorge</string>
+    <string name="hotel_domani_endereco">Endereço: Rua Dr. Gastão Vidigal, 165</string>
+    <string name="hotel_ibis_endereco">Endereço: Rua General Osório, 19 – Centro</string>
+    <string name="hotel_matiz_endereco">Endereço: Rua Pedro de Toledo, 1000</string>
+
+    // Telefone dos Hoteis
+    <string name="hotel_best_telefone">Telefone: (11) 2714-7300 / (11) 2408-7553</string>
+    <string name="hotel_bristol_telefone">Telefone: (11) 4083-8000</string>
+    <string name="hotel_plaza_telefone">Telefone: (11) 2468-9502/ (11) 2440-1161</string>
+    <string name="hotel_monica_telefone">Telefone: (11) 2404-9200</string>
+    <string name="hotel_domani_telefone">Telefone: (11) 3579-9696</string>
+    <string name="hotel_ibis_telefone">Telefone: (11) 2159-5950</string>
+    <string name="hotel_matiz_telefone">Telefone: (11) 3411-7000</string>
+
+    // Site dos Hoteis
+    <string name="hotel_best_site">Site: www.panamby.com.br</string>
+    <string name="hotel_bristol_site">Site: http://www.bristolhoteis.com.br</string>
+    <string name="hotel_plaza_site">Site: www.guaruplazahotel.com.br</string>
+    <string name="hotel_monica_site">Site: www.villasantamonica.com.br</string>
+    <string name="hotel_domani_site">Site: www.hoteldomani.com.br</string>
+    <string name="hotel_ibis_site">Site: www.ibis.com</string>
+    <string name="hotel_matiz_site">Site: www.hotelariabrasil.com.br</string>
+
+
+    // Nome das Padarias
+    <string name="padaria_city_nome">City Bread</string>
+    <string name="padaria_maria_nome">Maria Cereja</string>
+    <string name="padaria_nova_nome">Nova Guarulhos Padaria</string>
+    <string name="padaria_vila_nome">Vila Moreira Padaria</string>
+    <string name="padaria_chego_nome">Chego Lá Padaria</string>
+    <string name="padaria_galles_nome">Galles Pães e Doces</string>
+    <string name="padaria_faria_nome">Padaria Faria Lima</string>
+
+    // Horario de Funcionamento das Padarias
+    <string name="padaria_city_horario">Horário de Funcionamento: 24 horas</string>
+    <string name="padaria_maria_horario">Horário de Funcionamento: Segunda à Quinta e Domingo, das 06h30 às 22h30 | Sexta e Sábado, das 06h30 às 23h</string>
+    <string name="padaria_nova_horario">Horário de Funcionamento: Diariamente, das 06h às 22h</string>
+    <string name="padaria_vila_horario">Horário de Funcionamento: Diariamente, das 05h às 22h</string>
+    <string name="padaria_chego_horario">Horário de Funcionamento: Diariamente, das 05h às 22</string>
+    <string name="padaria_galles_horario">Horário de Funcionamento: Diariamente, das 05h30 às 22h15</string>
+    <string name="padaria_faria_horario">Horário de Funcionamento: Diariamente, das 06h às 22h</string>
+
+    // Endereço das Padarias
+    <string name="padaria_city_endereco">Endereço: Av. Paulo Faccini, 449 - Macedo</string>
+    <string name="padaria_maria_endereco">Endereço: Av. Paulo Faccini, 1.287 - Centro</string>
+    <string name="padaria_nova_endereco">Endereço: Rua Albino Fantazzini, 90 – Vila Augusta</string>
+    <string name="padaria_vila_endereco">Endereço: Rua Silvestre Vasconcelos Calmon,137 – Vila Moreira</string>
+    <string name="padaria_chego_endereco">Endereço: Av. Barber Greene, 222 – Santa Clara</string>
+    <string name="padaria_galles_endereco">Endereço: Avenida Brigadeiro Faria Lima, 462 – Bom Clima</string>
+    <string name="padaria_faria_endereco">Endereço: Avenida Brigadeiro Faria Lima, 1.330 - Cocaia</string>
+
+
+    // Nome dos Parques
+    <string name="parque_maia_nome">Bosque Maia</string>
+    <string name="parque_lago_nome">Lago dos Patos</string>
+    <string name="parque_bom_nome">Parque Bom Clima</string>
+    <string name="parque_cantareira_nome">Parque Estadual da Cantareira</string>
+    <string name="parque_julio_nome">Parque Júlio Fracalanza</string>
+    <string name="parque_transguarulhense_nome">Parque Transguarulhense</string>
+
+    // Descricao dos Parques
+    <string name="parque_maia_descricao">Maior parque urbano de Guarulhos, possui mais de 3 KM de pista para cooper e caminhada, e diversas atividades.</string>
+    <string name="parque_lago_descricao">Um dos mais tradicionais pontos de lazer da cidade oferece pedalinhos, parque infantil, mesas e bancos, entre outros.</string>
+    <string name="parque_bom_descricao">Ao lado do Paço Municipal, o parque oferece sanitários, parquinho, mesas e bancos, pergolado, mirante, entre outros.</string>
+    <string name="parque_cantareira_descricao">Cantareira foi o nome dado à Serra pelos tropeiros que faziam o comércio entre São Paulo e as outras regiões do país.</string>
+    <string name="parque_julio_descricao">No parque está instalada a Cidade Mirim Ayrton Senna. Também oferece sanitários, parquinhos, feira de artesanato, mesas e bancos, etc.</string>
+    <string name="parque_transguarulhense_descricao">O parque recuperou uma área degradada, com a implantação de novos jardins, pista para caminhada,campo de futebol, iluminação, etc.</string>
+
+    // Endereço dos Parques
+    <string name="parque_maia_endereco">Endereço:  Av. Paulo Faccini, s/n - Centro</string>
+    <string name="parque_lago_endereco">Endereço: Rua Francisco Gonzaga Vasconcelos, s/ n° - Vila Galvão</string>
+    <string name="parque_bom_endereco">Endereço: Av. João Bernardo Medeiros, 166 - Jardim Bom Clima</string>
+    <string name="parque_cantareira_endereco">Endereço: Av. Pedro de Souza Lopes, 7903 - Recreio São Jorge</string>
+    <string name="parque_julio_endereco">Endereço: Rua Augusta, s/ nº - Vila Augusta</string>
+    <string name="parque_transguarulhense_endereco">Endereço: Av. Transguarulhense, s/ n° - Parque Continental</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">172dp</dimen>
+    <dimen name="list_item_width">120dp</dimen>
+
+    <dimen name="linha_height">120dp</dimen>
+    <dimen name="linha_width">112dp</dimen>
+
+    <dimen name="linha_padrao">8dp</dimen>
+
+    <dimen name="linha_titulo">32dp</dimen>
+    <dimen name="linha_descricao">88dp</dimen>
+</resources>
